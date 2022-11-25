@@ -1,4 +1,5 @@
 # scripts
+Super simple bash scripts for things and stuff.
 
 # update.sh
 Simple xbps and flatpak update checker for Void Linux.
