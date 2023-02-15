@@ -5,5 +5,5 @@ sudo xbps-remove -O
 sudo xbps-remove -o
 echo Checking flatpak for updates...
 flatpak update -y
-flatpak remove --unused
+flatpak remove --unused -y
 
